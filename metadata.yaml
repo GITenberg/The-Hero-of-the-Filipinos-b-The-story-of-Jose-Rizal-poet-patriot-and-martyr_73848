@@ -1,5 +1,8 @@
 _repo: The-Hero-of-the-Filipinos-b-The-story-of-Jose-Rizal-poet-patriot-and-martyr_73848
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Russell, Charles Edward
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57248'
     url: http://www.gutenberg.org/2009/agents/57248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73848#The-Hero-of-the-Filipinos-b-The-story-of-Jose-Rizal-poet-patriot-and-martyr
 gutenberg_issued: '2024-06-16'
 gutenberg_type: Text
 identifiers:
